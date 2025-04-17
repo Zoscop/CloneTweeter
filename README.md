@@ -42,8 +42,8 @@ Bienvenue sur **DEATHSTAR**, un clone de Twitter développé avec passion par En
 
 ### 1. Cloner le dépôt
 ```bash
-git clone https://github.com/ton-utilisateur/clone-twitter.git
-cd clone-twitter
+git clone https://github.com/Zoscop/CloneTwitter.git
+cd CloneTwitter
 ```
 
 ### 2.Installer les dépendances
