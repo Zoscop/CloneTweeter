@@ -1,0 +1,141 @@
+{
+  "users": [
+    {
+      "email": "darkvador@deathstar.com",
+      "password": "$2a$10$x0ldeSXutm/gzfP18QTTkeNkn0LJADAGFr.AS/cBjefQctHeqWVMm",
+      "username": "Dark Vador",
+      "id": 1,
+      "follow": [
+        "palpatine@deathstar.com",
+        "lskywalker@deathstar.com"
+      ],
+      "profilePicture": "https://i.pinimg.com/736x/52/8d/90/528d902f9913f23689de433bfd2305a7.jpg"
+    },
+    {
+      "email": "palpatine@deathstar.com",
+      "password": "$2a$10$7nO9EwYeTmYpOEFbdbA4DeCaWBk1yS.hZ9Gkwl5b5sojm8Souf8AK",
+      "username": "Empereur Palpatine",
+      "id": 2,
+      "follow": [
+        "darkvador@deathstar.com"
+      ],
+      "profilePicture": "https://anniversaire-celebrite.com/upload/250x333/palpatine-250.jpg"
+    },
+    {
+      "email": "tarkin@deathstar.com",
+      "password": "$2a$10$pYi6ysSFB/Qz29gTEUd9feDyXt8/lHTyvCKTCSrSyqiybKtyyhqqi",
+      "username": "GrandAmiral Tarkin",
+      "id": 3,
+      "follow": [
+        "darkvador@deathstar.com",
+        "palpatine@deathstar.com"
+      ],
+      "profilePicture": "https://pm1.aminoapps.com/7604/057bb91df6a64a2a0637a5ff49222458d78f6294r1-640-640v2_uhq.jpg"
+    },
+    {
+      "email": "thrawn@deathstar.com",
+      "password": "$2a$10$k7PlFbO.ZtWiq4aAQ7ZgT.EHqewwZpXQJcZRVCkg4frfgCjL8ggc.",
+      "username": "GrandAmiral Thrawn",
+      "id": 4,
+      "follow": [
+        "darkvador@deathstar.com",
+        "palpatine@deathstar.com",
+        "tarkin@deathstar.com"
+      ],
+      "profilePicture": "https://angrystaffofficer.com/wp-content/uploads/2023/11/grandadmiralthrawnwithfleet.jpg?w=1920&h=1200&crop=1"
+    },
+    {
+      "email": "bobafett@deathstar.com",
+      "password": "$2a$10$Dhqk0lQ2KT.oHrxIvZv0MukON5BZQATLDgo.FEUV9ak2bu4yARiBa",
+      "username": "Boba Fett",
+      "id": 5,
+      "follow": [
+        "darkvador@deathstar.com"
+      ],
+      "profilePicture": "https://upload.wikimedia.org/wikipedia/commons/3/37/Boba_Fett_-_A_Fett_to_Remember_%28cropped%29.jpg"
+    },
+    {
+      "email": "lskywalker@deathstar.com",
+      "password": "$2a$10$uroOztpM86G2FuWSV6C3nep7b07ijmqIX6UZ3m2kUBOySY89QBnV6",
+      "username": "Luke Skywalker",
+      "id": 6,
+      "profilePicture": "https://www.starwars-universe.com/images/encyclopedie/personnages/avatars_v6/luke_avv6.jpg",
+      "follow": [
+        "darkvador@deathstar.com"
+      ]
+    }
+  ],
+  "tweets": [
+    {
+      "content": "Bonjour l'empire",
+      "username": "Dark Vador",
+      "currentDate": "2025-04-09T07:06:38.194Z",
+      "id": 1,
+      "likedBy": [
+        "Dark Vador"
+      ],
+      "like": 1
+    },
+    {
+      "content": "Gloire à l'empire",
+      "username": "Boba Fett",
+      "currentDate": "2025-04-09T08:16:41.521Z",
+      "id": 2,
+      "likedBy": [
+        "Empereur Palpatine"
+      ],
+      "like": 1
+    },
+    {
+      "content": "Salut Salut",
+      "username": "Luke Skywalker",
+      "currentDate": "2025-04-09T08:19:29.696Z",
+      "id": 3,
+      "likedBy": [
+        "Empereur Palpatine",
+        "Dark Vador"
+      ],
+      "like": 2
+    },
+    {
+      "content": "Tu fait quoi là toi ?? @Luke Skywalker",
+      "username": "GrandAmiral Tarkin",
+      "currentDate": "2025-04-17T06:14:45.604Z",
+      "id": 4,
+      "likedBy": [
+        "GrandAmiral Tarkin"
+      ],
+      "like": 1
+    },
+    {
+      "content": "C'est le fils de qui même mdr",
+      "username": "GrandAmiral Thrawn",
+      "currentDate": "2025-04-17T06:15:44.083Z",
+      "id": 5,
+      "likedBy": [
+        "Empereur Palpatine"
+      ],
+      "like": 1
+    },
+    {
+      "content": "Le mien pourquoi ? y a un problème",
+      "username": "Dark Vador",
+      "currentDate": "2025-04-17T06:16:48.135Z",
+      "id": 6,
+      "likedBy": [
+        "Empereur Palpatine"
+      ],
+      "like": 1
+    },
+    {
+      "content": "🫢🫳🍿",
+      "username": "Empereur Palpatine",
+      "currentDate": "2025-04-17T06:17:56.965Z",
+      "id": 7,
+      "likedBy": [
+        "Empereur Palpatine"
+      ],
+      "like": 1
+    }
+  ]
+}
