@@ -44,3 +44,25 @@ Bienvenue sur **DEATHSTAR**, un clone de Twitter développé avec passion par En
 ```bash
 git clone https://github.com/ton-utilisateur/clone-twitter.git
 cd clone-twitter
+```
+
+### 2.Installer les dépendances
+```bash
+npm install
+```
+
+### 3.Lancer le Frontend
+```bash
+npm run dev
+```
+
+### 4.Lancer le Backend
+```bash
+npm start
+```
+
+## ⚜️ Contributeur :
+Enzo BERTRAND, M2I L3, École Pratique de Luminy, Marseille
+
+## 📜 Licence :
+Ce projet est sous licence. Voir le fichier LICENSE pour plus d'informations.
